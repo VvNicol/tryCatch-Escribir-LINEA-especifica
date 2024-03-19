@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tryCatch Escribir en una línea específica", "tryCatch Escribir en una línea específica.csproj", "{037D5076-A174-4E3F-9FF9-7DF90D62DC82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{037D5076-A174-4E3F-9FF9-7DF90D62DC82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037D5076-A174-4E3F-9FF9-7DF90D62DC82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037D5076-A174-4E3F-9FF9-7DF90D62DC82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037D5076-A174-4E3F-9FF9-7DF90D62DC82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1E1A1C4-A5D9-49B5-AA9A-03537AD20D76}
+	EndGlobalSection
+EndGlobal
